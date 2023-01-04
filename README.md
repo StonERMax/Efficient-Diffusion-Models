@@ -12,12 +12,15 @@ This repository contains a collection of resources and papers on ***Efficient Di
 **Knowledge Distillation In Iterative Generative Models For Improved Sampling Speed** \
 [[Paper](https://arxiv.org/pdf/2101.02388.pdf)]
 
-**On Distillation Of Guided Diffusion Models** \
+**On Distillation of Guided Diffusion Models** \
 [[Paper](https://arxiv.org/pdf/2210.03142.pdf)]
 
-**Progressive Distillation For Fast Sampling Of Diffusion Models** \
+**Progressive Distillation For Fast Sampling of Diffusion Models** \
 *ICLR 2022* \
 [[Paper](https://arxiv.org/pdf/2202.00512.pdf)]
+
+**Post-training Quantization on Diffusion Models** \
+[[Paper](https://arxiv.org/pdf/2211.15736.pdf)]
 
 ## Shorten reverse steps
 **Pseudo Numerical Methods For Diffusion Models On Manifolds** \
@@ -48,6 +51,10 @@ lower dimensional space -> latent space
 
 **Accelerating Diffusion Models via Early Stop of the Diffusion Process** \
 [[Paper](https://arxiv.org/abs/2205.12524.pdf)]
+
+**Score-based Generative Modeling in Latent Space** \
+*NIPS 2021*\
+[[Paper](https://proceedings.neurips.cc/paper/2021/file/5dca4c6b9e244d24a30b4c45601d9720-Paper.pdf)]
 
 ## Reduce model size
 **Diffusion Probabilistic Model Made Slim** \
