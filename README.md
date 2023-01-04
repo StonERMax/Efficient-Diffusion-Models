@@ -27,7 +27,7 @@ This repository contains a collection of resources and papers on ***Efficient Di
 *ICLR 2022* \
 [[Paper](https://arxiv.org/pdf/2202.09778.pdf)]
 
-**Dpm-solver: A Fast ODE Solver For Diffusion Probabilistic Model Sampling In Around 10 Steps** \
+**Dpm-solver: A Fast ODE Solver For Diffusion Probabilistic Model Sampling in Around 10 Steps** \
 *NIPS 2022* \
 [[Paper](https://arxiv.org/abs/2206.00927.pdf)]
 
